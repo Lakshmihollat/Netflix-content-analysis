@@ -35,12 +35,15 @@ Recommendations prioritize:
     - More recently added titles (recency bias)
 example:
 ```python
-recommend_similar_titles("House of Cards", df)
-
-# Output:
-# Ozark
-# Narcos
-# Bloodline
+Enter any Netflix title:  House of Cards
+#Output:
+#Target: 'House of Cards'
+#Genres: TV Dramas, TV Thrillers
+#   1. Squid Game (TV Show)
+#   2. Fatma (TV Show)
+#   3. 50M2 (TV Show)
+#   4. Tiny Pretty Things (TV Show)
+#   5. Children of Adam (TV Show)
 ```
 
 ## Visualizations
