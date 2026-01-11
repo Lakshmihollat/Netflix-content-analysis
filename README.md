@@ -24,15 +24,15 @@ In addition, a genre-based recommendation engine was built to simulate how Netfl
 - **85%+ content post-2016** - streaming pivot success
 - **Top 5 countries = 70%** but India/UK challenging US lead
 
-**Genere Concentration: 48% catalog = Drama + Comedy** proves comfort viewing formula.
+**Genre Concentration: 48% catalog = Drama + Comedy** proves comfort viewing formula.
 
-## genre-based recommendation system
-Approach
-Each title is represented as a set of genres
+## Genre-based recommendation system
+Approach:
+Each title is represented as a set of genres.
 Similarity is computed using Jaccard similarity
 Recommendations prioritize:
-    Higher genre overlap
-    More recently added titles (recency bias)
+    - Higher genre overlap
+    - More recently added titles (recency bias)
 example:
 ```python
 recommend_similar_titles("House of Cards", df)
