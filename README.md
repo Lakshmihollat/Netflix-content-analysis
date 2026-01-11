@@ -1,14 +1,14 @@
 # Netflix Content Analysis & Recommendation Engine
 
 ## Project Overview
-Analyzed 8,800+ Netflix titles to uncover growth patterns, content strategy, and audience preferences. Built production-ready recommendation engine using genre similarity.
+Analyzed 8,800+ Netflix titles to uncover growth patterns, content strategy, and audience preferences.
 In addition, a genre-based recommendation engine was built to simulate how Netflix could suggest similar content based on user preferences.
 
 ## Objectives
--Understand how Netflix’s content strategy evolved over time
--Compare growth trends between Movies and TV Shows
--Analyze genre, rating, and country-level patterns
--Build a lightweight recommendation system using content similarity
+- Understand how Netflix’s content strategy evolved over time
+- Compare growth trends between Movies and TV Shows
+- Analyze genre, rating, and country-level patterns
+- Build a lightweight recommendation system using content similarity
 
 ## Key Questions Answered
 1. **When did Netflix scale aggressively?** Post-2016 exponential growth
