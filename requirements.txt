@@ -1,0 +1,7 @@
+dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv
+
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
